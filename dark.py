@@ -65,9 +65,9 @@ listgrup = []
 vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
-def siapa():
+def Udah():
 	os.system('clear')
-	nama = raw_input("\033[1;97mUdah colly belum ? \033[1;91m: \033[1;92m")
+	colly = raw_input("\033[1;97mUdah colly belum ? \033[1;91m: \033[1;92m")
 	if colly =="":
 		print"\033[1;96m[!] \033[1;91mIsi yang benar"
 		time.sleep(1)

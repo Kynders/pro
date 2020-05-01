@@ -74,7 +74,7 @@ def siapa():
 		Udah()
 	else:
 		os.system('clear')
-		jalan("\033[1;97mTernyata kamu  \033[1;92m" +coly+ coly "\n\033[1;97mTerimakasih telah menggunakan scrift ini !!")
+		jalan("\033[1;97mSaya tau kamu  \033[1;92m" +coly+  "\n\033[1;97mTerimakasih telah jujur kepada saya !!")
 		time.sleep(1)
 		loginSC()
 		

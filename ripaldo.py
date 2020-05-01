@@ -47,7 +47,7 @@ def jalan(z):
 		
 		
 os.system('toilet -f slant RIKY-FB | lolcat')
-print '\x1b[1;96mFB\n\n \x1b[1;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\n ✫╬─ \x1b[1;92mAuthor \x1b[1;91m: \x1b[1;93mRIKY RIPALDO                   \x1b[1;95m─╬✫\n ✫╬─ \x1b[1;92mWhatsapp \x1b[1;91m: \x1b[1;93m+6285789116608                   \x1b[1;95m─╬✫ ✫╬─ \x1b[1;92mFB    \x1b[1;92m \x1b[1;91m: \x1b[1;96mFacebook.com/santuy2094     \x1b[1;95m─╬✫\n ✫╬─ \x1b[1;92mGitHub \x1b[1;91m: \x1b[1;94mhttps://github.com/Riky2094     \x1b[1;95m─╬✫\n ●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●'
+print '\x1b[1;96mFB\n ●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\n ✫╬─ \x1b[1;92mAuthor \x1b[1;91m: \x1b[1;93mRIKY RIPALDO                   \x1b[1;95m─╬✫\n ✫╬─ \x1b[1;92mWhatsapp \x1b[1;91m: \x1b[1;93m+6285789116608                   \x1b[1;95m─╬✫ ✫╬─ \x1b[1;92mFB    \x1b[1;92m \x1b[1;91m: \x1b[1;96mFacebook.com/santuy2094     \x1b[1;95m─╬✫\n ✫╬─ \x1b[1;92mGitHub \x1b[1;91m: \x1b[1;94mhttps://github.com/Riky2094     \x1b[1;95m─╬✫\n ●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●'
 
 
 def tik():

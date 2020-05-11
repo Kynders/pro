@@ -16,7 +16,7 @@ print '\33[36;1m[+] Whatsapp :+6285789116608             [+]'
 print '\33[1;33m[+] Facebook :m.facebook.com/santuy2094  [+]'
 print '\33[32;1m[*] decompiled by Riky Ripaldo           [*]'
 print '\33[31;1m================================================='
-print 
+print '\33[37;1m'
 print "[+] Menu pilihan :[+]"
 print "[1] Hack Akun facebook Pro"
 print "[2] Hack Akun facebook Premium"

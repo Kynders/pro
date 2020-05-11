@@ -6,26 +6,23 @@ import sys
 
 os.system('clear')
 os.system('neofetch')
-print '\33[1;33m----------------------------------------'
-os.system('toilet -f slant RIKY | lolcat')
-os.system('toilet -f slant RIPALDO | lolcat')
-print '\33[1;33m----------------------------------------'
 print
 print '\33[33;1m     [+] WELCOME TO SCRIFT [+]'
 print
 print '\33[31;1m================================================='
-print '\33[31;1m[+] Author :Riky Ripaldo                 [+]'
+print '\33[32;1m[+] Author :Riky Ripaldo                 [+]'
 print '\33[0;36m[+] Github :https://github.com/Riky2094  [+]'
 print '\33[36;1m[+] Whatsapp :+6285789116608             [+]'
 print '\33[1;33m[+] Facebook :m.facebook.com/santuy2094  [+]'
-print "[*] decompiled by Riky Ripaldo                    [*]"
+print '\33[32;1m[*] decompiled by Riky Ripaldo           [*]'
 print '\33[31;1m================================================='
 print 
-print "[+] Menu pilihan :[+]
+print "[+] Menu pilihan :[+]"
 print "[1] Hack Akun facebook Pro"
 print "[2] Hack Akun facebook Premium"
 print "[3] Impormasi Android"
 print "[4] Install bahan"
+print "[0] Exit"
 print
 pilih =raw_input('\33[1;33m[?] pilih >>')
 if pilih == "1":
